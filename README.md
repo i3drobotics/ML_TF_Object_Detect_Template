@@ -47,7 +47,7 @@ Install git LFS
 ## Create repository
 Clone this repository (with submodule)
 ```
-git clone --recursive https://github.com/i3drobotics/ML_TF_Object_Detect_Template.git
+git clone --recursive https://github.com/i3drobotics/TF_Object_Detect_Template.git
 ```
 
 Push this repository to your own git repository url
