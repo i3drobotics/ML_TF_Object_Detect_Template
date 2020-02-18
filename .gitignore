@@ -4,5 +4,6 @@
 images*
 inference_graph*
 training*
+standalone*
 test.record
 train.record
